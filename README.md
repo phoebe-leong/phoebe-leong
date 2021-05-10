@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**phoebe-leong/phoebe-leong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PH03be](https://ph03be.glitch.me/favicon.png)
 
-Here are some ideas to get you started:
+### :sparkles: About me :sparkles:
+Hi! :smile:  
+I'm Phoebe. I love making things and coding. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages I know
+##### Rendering Languages
+- HTML
+- CSS
+##### Programming Languages
+- JavaScript
+- C++
+
+If you want to know anything else about me, you can go to [my website](https://ph03be.glitch.me) or message me on Discord (pheebeeeツ#3899)!
