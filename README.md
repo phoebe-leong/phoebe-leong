@@ -1,5 +1,5 @@
 
-![PH03be](https://phoebe-leong.glitch.me/favicon.png)
+![PH03be](https://avatars.githubusercontent.com/u/65205197?v=4)
 
 ### :sparkles: About me :sparkles:
 Hi! :smile:  
