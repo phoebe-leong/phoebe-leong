@@ -10,7 +10,6 @@ I'm Phoebe. I love making things and coding.
 - HTML
 - CSS
 ##### Programming Languages
-- JavaScript (discord.js)
 - C++
 
 If you want to know anything else about me, you can go to [my website](https://phoebe-leong.github.io) or message me on Discord (pheebeeeツ#3899)
