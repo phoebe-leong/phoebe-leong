@@ -2,7 +2,7 @@
 [![PH03be](https://avatars.githubusercontent.com/u/65205197?v=4)](https://phoebe-leong.github.io)
 
 ### :sparkles: About me :sparkles:
-Hi! :smile:  
+Hi! 😜  
 I'm Phoebe. I love making things and coding. 
 
 #### - Languages I know
