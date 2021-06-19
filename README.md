@@ -1,5 +1,4 @@
 <a href="https://phoebe-leong.github.io"><img src="https://avatars.githubusercontent.com/u/65205197?v=4" width="50px" height="50px"></a>
-<a href="https://dev.to/phoebeleong"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="50px" height="50px"></a>
 
 ### :sparkles: About me :sparkles:
 Hi! 😜  
