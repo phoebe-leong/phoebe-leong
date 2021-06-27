@@ -3,7 +3,7 @@
 # :sparkles: About me :sparkles:
 
 Hi! 😜  
-I'm Phoebe. I love making things and coding. 
+I'm Phoebe / Darius. I love making things and coding. 
 
 I know a total of three and a quarter languages (HTML, CSS, C++, and ¼ of C).  
 I can write simple static sites, but am mostly comfortable in experimenting in backend.
