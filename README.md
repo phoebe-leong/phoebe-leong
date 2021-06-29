@@ -6,7 +6,7 @@ Hi! 😜
 I'm Phoebe / Darius. I love making things and coding. 
 
 I know a total of three and a quarter languages (HTML, CSS, C++, and ¼ of C).  
-I can write simple static sites, but am mostly comfortable in experimenting in backend.
+I can write simple static sites, but am mostly comfortable with experimenting in backend.
 
 ## Stats
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoebe-leong&theme=dark)](https://github.com/phoebe-leong?tab=repositories)  
